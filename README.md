@@ -3,8 +3,6 @@ It's a complete Android All type of View Template project. List_view / Recycler_
 
 ## -What i Done this Project:
 
-<br/>
-<br/>
 - **List View.** <br/>
 - **Card View.** <br/>
 - **Grid View.** <br/>
