@@ -1,16 +1,16 @@
 # Android-All_View-Project
-It's a complete Android All type of View Template project. List_view / Recycler_View / Card_View / Grid_View / CardView inside RecyclerView / Custom_Adapter(List View) / Navigation_drwer....... 
+It's a complete Android All type of View Template project. List_view / Recycler_View / Card_View / Grid_View / CardView inside RecyclerView / Custom_Adapter(List View) / Navigation_drawer....... 
 
-## -What i Done this Project_
+## -What i Done this Project:
 
 <br/>
 <br/>
-- **List View** <br/>
-- **Card View** <br/>
-- **Grid View** <br/>
-- **Recycler View** <br/>
-- **Custom adapter(List View)** <br/>
-- **Card View inside Recycler View**  <br/>
-- **Navigation View** <br/>
+- **List View.** <br/>
+- **Card View.** <br/>
+- **Grid View.** <br/>
+- **Recycler View.** <br/>
+- **Custom adapter(List View).** <br/>
+- **Card View inside Recycler View.**  <br/>
+- **Navigation View.** <br/>
 
-## -**Project View**-
+## _**Project View**_
