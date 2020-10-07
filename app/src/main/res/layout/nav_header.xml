@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="160dp"
+    android:padding="10dp"
+    android:background="@color/spring_green">
+
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@drawable/naymur_rahaman"
+       />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MD. Maymur rahaman"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:paddingTop="8dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="naymurrahman.cse@gmail.com"
+        android:textColor="@color/black"
+     />
+
+
+</LinearLayout>

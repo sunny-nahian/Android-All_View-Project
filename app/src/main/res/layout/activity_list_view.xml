@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgroundgradient"
+    android:orientation="vertical"
+    tools:context=".ListViewActivity">
+
+    <SearchView
+        android:id="@+id/idSearchView"
+        android:background="@color/white"
+        android:queryHint="Searching here...."
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </SearchView>
+
+    <ListView
+        android:id="@+id/idListviewLayout"
+        android:dividerHeight="3dp"
+        android:divider="@color/dark_sea_green"
+        android:listSelector="@color/purple"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </ListView>
+
+</LinearLayout>

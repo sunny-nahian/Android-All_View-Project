@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:layout_margin="20dp">
+        
+        <ImageView
+            android:id="@+id/idRecycleCardImage"
+            android:layout_margin="5dp"
+            android:src="@drawable/brazil"
+            android:layout_width="100dp"
+            android:layout_height="100dp" />
+        <LinearLayout
+            android:layout_gravity="center"
+            android:orientation="vertical"
+            android:layout_marginLeft="80dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/idRrCardTitle"
+                android:layout_marginTop="5dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large"
+                android:text="TiTle"
+                app:fontFamily="@font/alfa_slab_one"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                />
+            <TextView
+                android:id="@+id/idRrCardDesc"
+                android:layout_marginTop="5dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Small"
+                android:text="Descriptions..."
+                app:fontFamily="@font/alfa_slab_one"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                />
+
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>

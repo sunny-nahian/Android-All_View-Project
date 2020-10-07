@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">View Project ListView GridView</string>
+
+
+    <!--(ArrayAdapter)Data Source for ListView-->
+    <string-array name="Country_name">
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Brazil</item>
+        <item>France</item>
+        <item>Portugal</item>
+        <item>Italy</item>
+        <item>Argentina</item>
+        <item>Germany</item>
+    </string-array>
+    <!--(ArrayAdapter) End Data Source for ListView-->
+
+
+    <!--(CustomAdapter)Data Source for ListView-->
+    <string-array name="Country_desc">
+        <item>Click here see the Bangladesh details.... </item>
+        <item>Click here see the India details....</item>
+        <item>Click here see the Pakistan details....</item>
+        <item>Click here see the Brazil details....</item>
+        <item>Click here see the France details....</item>
+        <item>Click here see the Portugal details....</item>
+        <item>Click here see the italy details....</item>
+        <item>Click here see the Argentina details....</item>
+        <item>Click here see the Germany details....</item>
+    </string-array>
+    <!--(CustomAdapter) End Data Source for ListView-->
+
+    <!--(CardView inside GridView)Data Source for GridView-->
+    <string-array name="Social_name">
+        <item>Chrome</item>
+        <item>Facebook</item>
+        <item>What`s App</item>
+        <item>Youtube</item>
+        <item>Messenger</item>
+        <item>Instragram</item>
+        <item>Skype</item>
+        <item>Linkedin</item>
+        <item>Twitter</item>
+        <item>Imo</item>
+        <item>Viber</item>
+        <item>TikTok</item>
+        <item>Snapchat</item>
+
+    </string-array>
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <!--(CardView inside GridView) END Data Source for GridView-->
+
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+
+</resources>
