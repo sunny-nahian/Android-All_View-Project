@@ -5,12 +5,12 @@ It's a complete Android All type of View Template project. List_view / Recycler_
 
 <br/>
 <br/>
-- **List View**
-- **Card View**
-- **Grid View**
-- **Recycler View**
-- **Custom adapter(List View)**
-- **Card View inside Recycler View**
-- **Navigation View**
+- **List View** <br/>
+- **Card View** <br/>
+- **Grid View** <br/>
+- **Recycler View** <br/>
+- **Custom adapter(List View)** <br/>
+- **Card View inside Recycler View**  <br/>
+- **Navigation View** <br/>
 
-## ~~**Project View**~~
+## -**Project View**-
